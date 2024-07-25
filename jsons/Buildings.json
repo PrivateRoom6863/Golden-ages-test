@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Golden Age Philippines",
+    "uniqueTo": "Philippines",
+    "cost": 0,
+		"hurryCostModifier": 0,
+		"uniques": [	"Automatically built in all cities where it is buildable <hidden from users>",
+			"Destroyed when the city is captured <hidden from users>",
+      "Limited to [1] per Civilization <hidden from users>",
+      "Will not be displayed in Civilopedia <hidden from users>",
+      "Empire enters golden age <when above [10] Happiness>",
+			"Unbuildable <hidden from users>"]
+  }
+]
