@@ -2,8 +2,8 @@
   {
     "name": "Golden Age Babylon",
     "uniqueTo": "Babylon Test",
-    "cost": 0,
-		"hurryCostModifier": 0,
+    "cost": 1,
+	"hurryCostModifier": 0,
 		"uniques": [	"Automatically built in all cities where it is buildable <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>",
       "Limited to [1] per Civilization <hidden from users>",
