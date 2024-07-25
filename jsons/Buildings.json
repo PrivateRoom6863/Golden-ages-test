@@ -1,7 +1,7 @@
 [
   {
-    "name": "Golden Age Philippines",
-    "uniqueTo": "Philippines",
+    "name": "Golden Age Babylon",
+    "uniqueTo": "Babylon Test",
     "cost": 0,
 		"hurryCostModifier": 0,
 		"uniques": [	"Automatically built in all cities where it is buildable <hidden from users>",
